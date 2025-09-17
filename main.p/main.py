@@ -1,0 +1,7 @@
+print("Dinislom")
+print(234+123)
+print("Hala madrid","Ronaldo","kroos", sep='-&^')
+print("qwdwdsdsd", end='&')
+print("qwsdfnhgtr")
+print("rodrygo", "carvajal", end=" ", sep="$%&")
+print("varane","Ramos")
